@@ -86,13 +86,11 @@ Pillow (PIL) for image processing.
 
 
 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute:
+    Contributions are welcome! If you'd like to contribute:
 
 Submit issues for bugs or new features.
 Open a pull request with your improvements.
 
 💻 License
-
-This project is open source and available under the MIT License.
+    This project is open source and available under the MIT License.
 
