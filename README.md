@@ -54,10 +54,13 @@ A tool designed to help farmers and agricultural experts identify and diagnose c
 The app uses a MobileNet architecture, a lightweight and efficient neural network designed for image classification tasks. The model was trained on a dataset of cashew leaves, categorized into:
 
 Anthracnose
+
 Leaf Miner
+
 Red Rust
+
 Healthy
-The model achieves high accuracy in detecting these categories.
+
 
 ⚙️ How to Run the App
 Clone the repository:
