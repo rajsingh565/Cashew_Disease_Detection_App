@@ -16,7 +16,6 @@ Healthy: Indicates no visible signs of disease.
 📷 App Interface
    ![StreamlitApp](./Screenshot/StreamlitApp.png)
 1. Healthy Prediction
-   ![Healthy](./Screenshot/Healthy.png)
 Prediction: Healthy
 Confidence: 99.82%
 Description: No visible diseases detected.
