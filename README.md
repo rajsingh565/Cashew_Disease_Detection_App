@@ -1,4 +1,4 @@
-﻿<mark>🌿 Cashew Disease Detection App</mark>
+﻿🌿 Cashew Disease Detection App
 
 A tool designed to help farmers and agricultural experts identify and diagnose cashew leaf diseases quickly and efficiently using image classification. This app is built using MobileNet and deployed with Streamlit, making it easy to use for disease detection in the field.
 
