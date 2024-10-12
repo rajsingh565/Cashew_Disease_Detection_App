@@ -83,13 +83,7 @@ Streamlit for creating an interactive web interface.
 
 Pillow (PIL) for image processing.
 
-🌟 Future Improvements
 
-📈 Expand the Dataset: Increase the variety and volume of images to improve prediction accuracy.
-
-🌍 Add More Diseases: Extend the model to detect additional cashew leaf diseases.
-
-📱 Mobile Version: Develop a mobile app for easy on-field usage by farmers.
 
 🤝 Contributing
 
