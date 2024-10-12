@@ -62,14 +62,14 @@ The model achieves high accuracy in detecting these categories.
 ⚙️ How to Run the App
 Clone the repository:
 
-bash
+
 ```
 git clone https://github.com/your-username/cashew-disease-detection.git
 ```
 
 Run the Streamlit app:
 
-bash
+
 ```
 streamlit run app.py
 ```
