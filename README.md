@@ -31,13 +31,12 @@ Confidence: 99.82%
 Description: No visible diseases detected.
 
 3. Red Rust Prediction
-   ![Red Rust](./Screenshot/Red Rust.png)
 Prediction: Red Rust
 Confidence: 100.00%
 Description: A fungal disease resulting in reddish-brown pustules on leaves.
 
 5. Leaf Miner Prediction
-   ![Leaf Miner](./Screenshot/Leaf Miner.png)
+   
 Prediction: Leaf Miner
 Confidence: 99.12%
 Description: Small insect larvae causing visible tunnels or blotches in leaves.
