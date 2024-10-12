@@ -11,7 +11,7 @@ A tool designed to help farmers and agricultural experts identify and diagnose c
 
 📘 Disease Information: Provides brief descriptions of each disease for better understanding.
 
-🌱 Disease Categories
+##🌱 Disease Categories
 
 Anthracnose: A fungal disease causing leaf spots and lesions.
 
@@ -21,7 +21,7 @@ Red Rust: A fungal disease characterized by reddish-brown pustules on leaves.
 
 Healthy: Indicates no visible signs of disease.
 
-📷 App Interface
+##📷 App Interface
    ![StreamlitApp](./Screenshot/StreamlitApp.png)
    
 1. Healthy Prediction
@@ -41,7 +41,7 @@ Prediction: Leaf Miner
 Confidence: 99.12%
 Description: Small insect larvae causing visible tunnels or blotches in leaves.
 
-🧠 Model Overview
+##🧠 Model Overview
 
 The app uses a MobileNet architecture, a lightweight and efficient neural network designed for image classification tasks. The model was trained on a dataset of cashew leaves, categorized into:
 
@@ -51,7 +51,7 @@ Red Rust
 Healthy
 The model achieves high accuracy in detecting these categories.
 
-⚙️ How to Run the App
+##⚙️ How to Run the App
 Clone the repository:
 
 bash
@@ -67,7 +67,7 @@ streamlit run app.py
 ```
 Upload a cashew leaf image to see real-time disease detection.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 TensorFlow for building and training the deep learning model.
 
@@ -75,7 +75,7 @@ Streamlit for creating an interactive web interface.
 
 Pillow (PIL) for image processing.
 
-🌟 Future Improvements
+##🌟 Future Improvements
 
 📈 Expand the Dataset: Increase the variety and volume of images to improve prediction accuracy.
 
@@ -83,7 +83,7 @@ Pillow (PIL) for image processing.
 
 📱 Mobile Version: Develop a mobile app for easy on-field usage by farmers.
 
-🤝 Contributing
+##🤝 Contributing
 
 Contributions are welcome! If you'd like to contribute:
 
