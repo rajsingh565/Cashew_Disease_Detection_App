@@ -14,40 +14,40 @@ A tool designed to help farmers and agricultural experts identify and diagnose c
 
 🌱 Disease Categories
 
-Anthracnose: A fungal disease causing leaf spots and lesions.
+   Anthracnose: A fungal disease causing leaf spots and lesions.
 
-Leaf Miner: Insect larvae that burrow into leaves, causing tunnels or blotches.
+   Leaf Miner: Insect larvae that burrow into leaves, causing tunnels or blotches.
 
-Red Rust: A fungal disease characterized by reddish-brown pustules on leaves.
+   Red Rust: A fungal disease characterized by reddish-brown pustules on leaves.
 
-Healthy: Indicates no visible signs of disease.
+   Healthy: Indicates no visible signs of disease.
 
 📷 App Interface
    ![StreamlitApp](./Screenshot/StreamlitApp.png)
    
 1. Healthy Prediction
    
-Prediction: Healthy
+   Prediction: Healthy
 
-Confidence: 99.82%
+   Confidence: 99.82%
 
-Description: No visible diseases detected.
+   Description: No visible diseases detected.
 
 3. Red Rust Prediction
    
-Prediction: Red Rust
+   Prediction: Red Rust
 
-Confidence: 100.00%
+   Confidence: 100.00%
 
-Description: A fungal disease resulting in reddish-brown pustules on leaves.
+   Description: A fungal disease resulting in reddish-brown pustules on leaves.
 
 5. Leaf Miner Prediction
    
-Prediction: Leaf Miner
+   Prediction: Leaf Miner
 
-Confidence: 99.12%
+   Confidence: 99.12%
 
-Description: Small insect larvae causing visible tunnels or blotches in leaves.
+   Description: Small insect larvae causing visible tunnels or blotches in leaves.
 
 🧠 Model Overview
 
